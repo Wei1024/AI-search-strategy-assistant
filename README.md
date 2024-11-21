@@ -1,8 +1,4 @@
-# SLR_agent
-
-A Systematic Literature Review (SLR) assistant thelp you automate various tasks effectively.
-
-## Current Components
+# AI_Search_Strategy_agent
 
 The current main application is `app_search.py`, which provides an interactive chat interface for:
 - PICO Framework Formatting: Helps structure clinical questions using the PICO (Population, Intervention, Comparison, Outcome) framework
