@@ -24,6 +24,7 @@ Create a `.env` file with the following:
 ```
 OPENAI_API_KEY=your_openai_api_key
 ANTHROPIC_API_KEY=your_anthropic_api_key
+SEARCH_API_KEY=your_search_api_key
 ```
 
 ## Running the Application
